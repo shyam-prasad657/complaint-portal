@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/complaint-portal/static/css/main.74e8ff5c.css",
-    "main.js": "/complaint-portal/static/js/main.f6357240.js",
+    "main.js": "/complaint-portal/static/js/main.ebdbd439.js",
     "index.html": "/complaint-portal/index.html",
     "main.74e8ff5c.css.map": "/complaint-portal/static/css/main.74e8ff5c.css.map",
-    "main.f6357240.js.map": "/complaint-portal/static/js/main.f6357240.js.map"
+    "main.ebdbd439.js.map": "/complaint-portal/static/js/main.ebdbd439.js.map"
   },
   "entrypoints": [
     "static/css/main.74e8ff5c.css",
-    "static/js/main.f6357240.js"
+    "static/js/main.ebdbd439.js"
   ]
 }
